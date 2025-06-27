@@ -1,2 +1,2 @@
-# portfollio
+# portfolio
 about me
